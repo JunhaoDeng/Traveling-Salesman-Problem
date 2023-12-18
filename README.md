@@ -1,0 +1,2 @@
+# Traveling Salesman Problem
+This is a programming assignment in which you will apply AI search/optimization techniques to a 3D Travelling-Salesman Problem (TSP) such as the one shown in Figure 1. Conceptually speaking, the space of traveling is a set of “cities” located on some grid points with (x, y, z) locations in which your AI agent has to travel. Your agent can travel from any city to any city and the distance between two cities can be calculated as the Euclidean distance between the two grid locations.
